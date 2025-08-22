@@ -7,3 +7,4 @@ xlsxwriter
 plotly
 requests
 websocket-client
+streamlit-autorefresh
