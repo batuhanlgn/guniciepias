@@ -8,3 +8,4 @@ plotly
 requests
 websocket-client
 streamlit-autorefresh
+flask
