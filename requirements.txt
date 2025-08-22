@@ -1,0 +1,17 @@
+streamlit
+dotenv
+numpy
+pandas
+openpyxl
+xlsxwriter
+plotly
+requests
+websocket-client
+json
+os
+math
+io
+pathlib
+logging
+csv
+python-dotenv
