@@ -1,0 +1,46 @@
+{
+  "admin": {
+    "password": "740f5a658d06acccecdfc42c7c80d09539c99c7228baaeabcb9ffaf0fc0a6249",
+    "role": "admin",
+    "approved": true,
+    "created_at": "2025-08-13T07:38:10.300733",
+    "permissions": {
+      "visual_alarms": true,
+      "sound_alarms": true,
+      "telegram": true,
+      "sms": true,
+      "websocket": true,
+      "user_management": true
+    }
+  },
+  "emresemerci": {
+    "password": "emresemerci123",
+    "role": "user",
+    "approved": true,
+    "created_at": "2025-08-13T07:38:53.793315",
+    "created_by": "admin",
+    "permissions": {
+      "visual_alarms": true,
+      "sound_alarms": true,
+      "telegram": false,
+      "sms": false,
+      "websocket": false,
+      "user_management": false
+    }
+  },
+  "ramazan": {
+    "password": "ramazan123",
+    "role": "user",
+    "approved": true,
+    "created_at": "2025-08-20T10:53:17.278267",
+    "created_by": "admin",
+    "permissions": {
+      "visual_alarms": true,
+      "sound_alarms": true,
+      "telegram": false,
+      "sms": false,
+      "websocket": false,
+      "user_management": false
+    }
+  }
+}
